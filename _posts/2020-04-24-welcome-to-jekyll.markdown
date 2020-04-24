@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll! (Don't worry about this)"
+title:  "Getting Started with Jekyll"
 date:   2020-04-24 14:17:58 -0400
 categories: jekyll update
 author: Noah Broyles
