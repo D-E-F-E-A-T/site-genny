@@ -7,6 +7,9 @@ author: Noah Broyles
 github:
   has_repo: quite
   repository_url: https://github.com/noahbroyles/noahbroyles.github.io/blob/master/jekyll/update/2020/04/24/welcome-to-jekyll.html
+tags: 
+  - Hawt
+  - Sexy
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
