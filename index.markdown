@@ -5,6 +5,7 @@
 layout: home
 so: quite
 github:
-  profile: quite
-  has_repo: not quite
+  show_profile: quite
+  has_repo: quite
+  repository_url: https://github.com/noahbroyles/noahbroyles.github.io
 ---
