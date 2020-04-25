@@ -6,6 +6,9 @@ author: Noah Broyles
 tags:
   - python
   - tutorials
+github:
+  has_repo: quite
+  repository_url: https://github.com/noahbroyles/noahbroyles.github.io/blob/master/2020/04/24/get-system-platform-python.html
 ---
 
 You know how sometimes you want to write a Python application that depends on knowing what platform it is being run on? (<em>e.g.</em> MacOS, Linux, or - heaven forbid - Windows?) Well, I wrote these instructions just for that purpose. <br><br>
