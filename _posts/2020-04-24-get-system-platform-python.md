@@ -25,8 +25,8 @@ class Computer:
 
 {% endhighlight %}
 
-If only `Computer.isMac()` would return `True` all the time! The world would be a better place. But it would never do to have `Computer.isMac()` return `True` on a Windows 10 P<s>O</s>C, or a nice Linux machine for that matter. 
-
+If only `Computer.isMac()` would return `True` all the time! The world would be a better place. But it would never do to have `Computer.isMac()` return `True` on a Windows 10 P<s>O</s>C, or a nice Linux machine for that matter.   
+<br>
 ## MacOS Test Case:
 <em><kbd>Cmd</kbd>+<kbd>Tab</kbd> to iTerm</em>
 {% highlight python %}
@@ -43,7 +43,7 @@ False
 False
 >>>
 {% endhighlight %}
-
+<br>
 ## Linux Test Case:
 <em>Nice lil' `ssh` into my desktop raspberry pi</em>
 {% highlight python %}
@@ -60,7 +60,7 @@ True
 False
 >>>
 {% endhighlight %}
-
+<br>
 ## Windows Test Case:
 <em>I had to fire up an online VM just for this!</em>
 {% highlight python %}
